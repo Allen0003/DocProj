@@ -1,3 +1,3 @@
 # DocProj
 
-bootstrap + AngularJs + java dependency injection + hiberate
+bootstrap + AngularJs + java dependency injection + hiberate + lombok
